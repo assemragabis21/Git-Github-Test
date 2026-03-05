@@ -5,6 +5,7 @@ def main():
     print("Git Lab 1 Practice")
 
     # Commit 1
+    print("Update number 1")
     print("First commit change")
 
     # Commit 2
