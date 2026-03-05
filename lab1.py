@@ -9,6 +9,7 @@ def main():
     print("First commit change")
 
     # Commit 2
+	print("Update number 2")
     print("Second commit change")
 
     # Commit 3
