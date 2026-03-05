@@ -17,8 +17,8 @@ def main():
     # Commit 4
     print("Fourth commit change")
 
-    print("commit after deletion")
-    print("lab done")
+	print("commit after deletion")
+	print("lab done")
 
 if __name__ == "__main__":
     main()
